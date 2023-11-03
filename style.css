@@ -9,10 +9,12 @@ p {
 }
 
 a {
-    background-color: #44803f;
-    margin: 5px;
-    border-radius: 30px;
-    padding: 5px;
+  color: aliceblue;
+  background-color: #44803f;
+  margin: 5px;
+  border-radius: 30px;
+  padding: 5px;
+    
 }
 
 h1 {
